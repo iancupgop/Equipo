@@ -14,6 +14,7 @@
 		1A620ADE21F8C04B008B4095 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A620ADC21F8C04B008B4095 /* LaunchScreen.storyboard */; };
 		1A620AE921F8C04B008B4095 /* ProgramaiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A620AE821F8C04B008B4095 /* ProgramaiOSTests.swift */; };
 		1A620AF421F8C04B008B4095 /* ProgramaiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A620AF321F8C04B008B4095 /* ProgramaiOSUITests.swift */; };
+		1ACB82BC21FA043F00E35026 /* Prac2Popas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ACB82BB21FA043F00E35026 /* Prac2Popas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1A620AEF21F8C04B008B4095 /* ProgramaiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgramaiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A620AF321F8C04B008B4095 /* ProgramaiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramaiOSUITests.swift; sourceTree = "<group>"; };
 		1A620AF521F8C04B008B4095 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1ACB82BB21FA043F00E35026 /* Prac2Popas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prac2Popas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1A620ADA21F8C04B008B4095 /* Assets.xcassets */,
 				1A620ADC21F8C04B008B4095 /* LaunchScreen.storyboard */,
 				1A620ADF21F8C04B008B4095 /* Info.plist */,
+				1ACB82BB21FA043F00E35026 /* Prac2Popas.swift */,
 			);
 			path = ProgramaiOS;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				1A620AD621F8C04B008B4095 /* ViewController.swift in Sources */,
 				1A620AD421F8C04B008B4095 /* AppDelegate.swift in Sources */,
+				1ACB82BC21FA043F00E35026 /* Prac2Popas.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
